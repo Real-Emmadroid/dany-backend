@@ -1,6 +1,8 @@
 {
-  "name": "Smart Inventory & Stock Management System",
+  "name": "Smart Inventory Backend",
   "description": "Production-ready relational inventory, sales, and stock management system with Express REST API, Neon Postgres persistence, role-based access control, and transaction-safe checkout.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
